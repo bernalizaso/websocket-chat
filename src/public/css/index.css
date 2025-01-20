@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(218, 233, 233);
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+width: 50%;
+margin-bottom: 10px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
